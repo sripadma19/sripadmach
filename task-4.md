@@ -1,5 +1,4 @@
 Instructions to get the gtkwave window
-
 ls ~to check the content of the folder
 ![image](https://github.com/sripadma19/sripadmach/assets/161410141/1dde8b4f-e078-45e0-ad95-76b0a1087caa)
 Gtkwave sripadma.vcd
